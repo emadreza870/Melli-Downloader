@@ -1,10 +1,7 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [960px-F15smtd01](./960px-F15smtd01)
+- [app-arm64-release](./app-arm64-release)
 
 ---
 
