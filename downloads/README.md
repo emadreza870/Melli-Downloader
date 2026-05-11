@@ -4,6 +4,7 @@
 - [app-arm64-release](./app-arm64-release)
 - [archive_20260511_171358](./archive_20260511_171358)
 - [moondream-2b-int8.mf](./moondream-2b-int8.mf)
+- [moondream2-mmproj-f16](./moondream2-mmproj-f16)
 
 ---
 
